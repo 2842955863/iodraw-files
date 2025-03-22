@@ -26,7 +26,12 @@
         </mxCell>
         <mxCell id="seOeQeH9bfQxWLUTGuRx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seOeQeH9bfQxWLUTGuRx-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="510" as="targetPoint" />
+            <mxPoint x="360" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="480" />
+              <mxPoint x="361" y="480" />
+              <mxPoint x="361" y="520" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="seOeQeH9bfQxWLUTGuRx-8" value="通过特定融合算法，将数据库生成综合环境地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
