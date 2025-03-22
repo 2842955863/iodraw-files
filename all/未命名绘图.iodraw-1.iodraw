@@ -68,6 +68,12 @@
         <mxCell id="seOeQeH9bfQxWLUTGuRx-20" value="实时监控并调控能源消耗和分配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="190" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="seOeQeH9bfQxWLUTGuRx-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="seOeQeH9bfQxWLUTGuRx-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="sourcePoint" />
+            <mxPoint x="450" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
