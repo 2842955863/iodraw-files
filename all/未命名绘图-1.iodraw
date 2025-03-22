@@ -8,10 +8,7 @@
           <mxGeometry x="220" y="924" width="523" height="170" as="geometry" />
         </mxCell>
         <mxCell id="n8MJxtb5pY3To4aXfffj-2" value="通信优化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="520" width="636" height="341" as="geometry" />
-        </mxCell>
-        <mxCell id="n8MJxtb5pY3To4aXfffj-3" value="数据采集与处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="103" y="119" width="640" height="341" as="geometry" />
+          <mxGeometry x="20" y="510" width="636" height="341" as="geometry" />
         </mxCell>
         <mxCell id="n8MJxtb5pY3To4aXfffj-4" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="369" y="20" width="92" height="49" as="geometry" />
@@ -86,12 +83,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n8MJxtb5pY3To4aXfffj-20" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.32;entryX=1;entryY=0.92;rounded=0;" edge="1" parent="1" source="n8MJxtb5pY3To4aXfffj-11" target="n8MJxtb5pY3To4aXfffj-6">
+        <mxCell id="n8MJxtb5pY3To4aXfffj-20" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.32;entryX=1;entryY=0.92;rounded=0;" edge="1" parent="1" source="n8MJxtb5pY3To4aXfffj-3" target="n8MJxtb5pY3To4aXfffj-6">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="686" y="924" />
-              <mxPoint x="686" y="350" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n8MJxtb5pY3To4aXfffj-21" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="n8MJxtb5pY3To4aXfffj-11" target="n8MJxtb5pY3To4aXfffj-12">
@@ -155,6 +149,19 @@
               <mxPoint x="595" y="350" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="n8MJxtb5pY3To4aXfffj-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.32;entryX=1;entryY=0.92;rounded=0;" edge="1" parent="1" source="n8MJxtb5pY3To4aXfffj-11" target="n8MJxtb5pY3To4aXfffj-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="686" y="924" />
+              <mxPoint x="686" y="350" />
+            </Array>
+            <mxPoint x="485" y="993" as="sourcePoint" />
+            <mxPoint x="509" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n8MJxtb5pY3To4aXfffj-3" value="数据采集与处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="193" width="640" height="341" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
