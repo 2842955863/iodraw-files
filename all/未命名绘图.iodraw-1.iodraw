@@ -4,12 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="seOeQeH9bfQxWLUTGuRx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seOeQeH9bfQxWLUTGuRx-2">
+        <mxCell id="seOeQeH9bfQxWLUTGuRx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="seOeQeH9bfQxWLUTGuRx-2" target="seOeQeH9bfQxWLUTGuRx-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="160" />
-              <mxPoint x="360" y="160" />
+              <mxPoint x="360" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -17,7 +16,7 @@
           <mxGeometry x="300" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="seOeQeH9bfQxWLUTGuRx-5" value="无人机与卫星、用户等构建多链路通信网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="180" width="140" height="60" as="geometry" />
+          <mxGeometry x="200" y="190" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="seOeQeH9bfQxWLUTGuRx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="seOeQeH9bfQxWLUTGuRx-6" target="seOeQeH9bfQxWLUTGuRx-8">
           <mxGeometry relative="1" as="geometry" />
