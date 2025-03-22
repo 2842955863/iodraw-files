@@ -150,7 +150,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n8MJxtb5pY3To4aXfffj-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.32;entryX=1;entryY=0.92;rounded=0;" edge="1" parent="1" source="n8MJxtb5pY3To4aXfffj-11" target="n8MJxtb5pY3To4aXfffj-3">
+        <mxCell id="n8MJxtb5pY3To4aXfffj-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.32;entryX=1;entryY=0.92;rounded=0;" edge="1" parent="1" source="n8MJxtb5pY3To4aXfffj-11" target="n8MJxtb5pY3To4aXfffj-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="686" y="924" />
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n8MJxtb5pY3To4aXfffj-3" value="数据采集与处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="193" width="640" height="341" as="geometry" />
+          <mxGeometry x="95" y="144" width="640" height="341" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
