@@ -18,11 +18,20 @@
         <mxCell id="seOeQeH9bfQxWLUTGuRx-5" value="无人机与卫星、用户等构建多链路通信网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="seOeQeH9bfQxWLUTGuRx-6" value="整合卫星提供的各类数据，构建多源环境数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="seOeQeH9bfQxWLUTGuRx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="seOeQeH9bfQxWLUTGuRx-6" target="seOeQeH9bfQxWLUTGuRx-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="seOeQeH9bfQxWLUTGuRx-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="380" width="120" height="130" as="geometry" />
+        <mxCell id="seOeQeH9bfQxWLUTGuRx-6" value="整合卫星提供的各类数据，构建多源环境数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="seOeQeH9bfQxWLUTGuRx-8" value="通过特定融合算法，将数据库生成综合环境地图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="seOeQeH9bfQxWLUTGuRx-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="380" as="sourcePoint" />
+            <mxPoint x="470" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
