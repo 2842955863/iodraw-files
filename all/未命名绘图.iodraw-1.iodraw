@@ -114,8 +114,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="seOeQeH9bfQxWLUTGuRx-30" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="66" y="328" width="50" height="30" as="geometry" />
+        <mxCell id="seOeQeH9bfQxWLUTGuRx-30" value="持续工作，实时优化调整" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="11" y="328" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
