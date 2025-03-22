@@ -26,11 +26,10 @@
         </mxCell>
         <mxCell id="seOeQeH9bfQxWLUTGuRx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seOeQeH9bfQxWLUTGuRx-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="500" as="targetPoint" />
+            <mxPoint x="360" y="520" as="targetPoint" />
             <Array as="points">
               <mxPoint x="280" y="480" />
-              <mxPoint x="361" y="480" />
-              <mxPoint x="361" y="520" />
+              <mxPoint x="360" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -44,6 +43,11 @@
             <Array as="points">
               <mxPoint x="440" y="260" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="seOeQeH9bfQxWLUTGuRx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="seOeQeH9bfQxWLUTGuRx-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="seOeQeH9bfQxWLUTGuRx-13" value="对通信信号进行分类、放大滤波等处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
