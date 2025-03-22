@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Linux; Android 12; MRO-W00 Build/HUAWEIMRO-W00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.103 Safari/537.36 XWEB/1300409 MMWEBSDK/20241202 MMWEBID/613 MicroMessenger/8.0.56.2800(0x2800385E) WeChat/arm64 Weixin Android Tablet NetType/WIFI Language/zh_CN ABI/arm64" version="24.7.17">
   <diagram name="第 1 页" id="Uiy33Jh-SAwsbSG8wJVQ">
-    <mxGraphModel dx="513" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="586" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="seOeQeH9bfQxWLUTGuRx-5" value="无人机与卫星、用户等构建多链路通信网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="180" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="seOeQeH9bfQxWLUTGuRx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="seOeQeH9bfQxWLUTGuRx-6" target="seOeQeH9bfQxWLUTGuRx-8">
           <mxGeometry relative="1" as="geometry" />
@@ -60,7 +60,7 @@
           <mxGeometry x="370" y="330" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="seOeQeH9bfQxWLUTGuRx-17" value="优化信号发送方向，动态调整信号辐射强度以及飞行高度和姿态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="520" width="160" height="60" as="geometry" />
+          <mxGeometry x="270" y="520" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
