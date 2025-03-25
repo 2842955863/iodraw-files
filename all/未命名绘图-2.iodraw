@@ -29,7 +29,7 @@
           <mxGeometry x="400" y="345" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qx0utjyM2B52aA3JlU_y-38" value="对比模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="350" width="150" height="60" as="geometry" />
+          <mxGeometry x="760" y="345" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qx0utjyM2B52aA3JlU_y-40" value="能源控制模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="390" width="90" height="20" as="geometry" />
