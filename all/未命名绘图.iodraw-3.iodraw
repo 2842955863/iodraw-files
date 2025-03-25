@@ -25,7 +25,7 @@
         <mxCell id="8Ra7bOyugN2lY1KNY4_Z-6" value="臭氧传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Ra7bOyugN2lY1KNY4_Z-7" value="气压传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8Ra7bOyugN2lY1KNY4_Z-7" value="风向风速传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ra7bOyugN2lY1KNY4_Z-9" value="信号处理模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
