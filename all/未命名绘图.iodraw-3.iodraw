@@ -32,10 +32,10 @@
           <mxGeometry x="350" y="230" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8Ra7bOyugN2lY1KNY4_Z-10" value="一号单片机：预处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="260" width="130" height="60" as="geometry" />
+          <mxGeometry x="520" y="260" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ra7bOyugN2lY1KNY4_Z-11" value="二号单片机：天气预测模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="260" width="150" height="60" as="geometry" />
+          <mxGeometry x="677" y="260" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8Ra7bOyugN2lY1KNY4_Z-12" value="决策制定模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="360" width="620" height="70" as="geometry" />
