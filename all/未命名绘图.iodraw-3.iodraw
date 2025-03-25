@@ -160,8 +160,8 @@
             <mxPoint x="580" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8Ra7bOyugN2lY1KNY4_Z-34" value="气象传感器模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="100" width="100" height="20" as="geometry" />
+        <mxCell id="8Ra7bOyugN2lY1KNY4_Z-34" value="数据手机模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="95" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
