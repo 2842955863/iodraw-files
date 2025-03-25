@@ -16,9 +16,6 @@
         <mxCell id="qx0utjyM2B52aA3JlU_y-31" value="紫外线传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qx0utjyM2B52aA3JlU_y-32" value="温湿度传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="qx0utjyM2B52aA3JlU_y-33" value="臭氧传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="130" width="120" height="60" as="geometry" />
         </mxCell>
